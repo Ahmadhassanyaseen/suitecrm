@@ -1,0 +1,126 @@
+[2025-10-14 10:12:31] Lead saved: {"action":"save_lead","first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","description":"This is test"}
+[2025-10-14 12:18:24] Lead Mail : "698c693d-c6db-a0b5-41f2-68edfbd37105"
+[2025-10-14 12:18:28] Error in Lead Email: Failed to send email: You must provide at least one recipient email address.
+[2025-10-14 12:19:16] Lead Mail : "d4271af8-2f34-39db-9c12-68ee05ef2324"
+[2025-10-14 12:19:25] Error: Could not load emails relationship for lead ID: d4271af8-2f34-39db-9c12-68ee05ef2324
+[2025-10-14 12:25:52] Lead Mail : "d4271af8-2f34-39db-9c12-68ee05ef2324"
+[2025-10-14 12:40:55] Lead Mail : "d4271af8-2f34-39db-9c12-68ee05ef2324"
+[2025-10-20 08:52:40] Vehicles: {"pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","pickupDate":"2025-10-20","serviceType":"Construction Shuttle","passengers":"20","action":"get_vehicles"}
+[2025-10-20 09:00:29] Vehicles: {"pickup":"Baltimore, MD, USA","destination":"Washington, USA","pickupDate":"2025-10-20","serviceType":"Convention","passengers":"20","action":"get_vehicles"}
+[2025-10-20 12:36:17] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:37:22] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:38:14] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:48:19] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:49:10] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:51:36] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:52:19] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:53:55] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:54:25] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:55:05] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:57:34] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:57:51] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 12:59:33] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:00:18] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:00:33] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:00:59] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:05:10] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:05:37] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:08:56] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:16:28] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:18:03] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:27:36] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:51:51] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:52:50] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:54:19] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:54:46] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 13:55:55] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:05:48] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:06:37] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:07:13] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:07:36] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:08:01] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:08:15] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:08:44] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:08:57] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:09:24] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:13:37] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:13:50] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:14:14] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:14:51] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:15:12] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:16:15] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:18:46] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:18:47] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:18:47] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:29:21] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:30:33] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:34:19] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:34:57] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:36:57] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:40:04] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 14:56:14] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 15:23:52] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:26:25] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:29:58] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:32:02] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:33:33] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 15:44:47] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 15:46:36] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 15:46:51] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Construction Shuttle","passengers":"20","pickup_date":"2025-10-20","service_length":"5","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:49:13] Vehicles: {"action":"get_vehicles"}
+[2025-10-20 15:49:22] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Construction Shuttle","passengers":"20","pickup_date":"2025-10-20","service_length":"5","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-10-20 15:49:32] Lead Mail : "629916b4-b490-8c05-4361-68f63d01cce7"
+[2025-10-21 08:14:20] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 08:23:00] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 08:27:23] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 08:38:14] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 08:45:58] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead","service_length":"5"}
+[2025-10-21 08:46:55] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead","service_length":"5"}
+[2025-10-21 08:53:10] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Family Reunion","passengers":"20","pickup_date":"2025-10-20","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead","service_length":"5"}
+[2025-10-21 10:00:58] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 10:02:02] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 10:02:31] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 10:03:02] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 11:30:05] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 11:39:29] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 11:42:00] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 12:10:38] Lead Mail : "beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca"
+[2025-10-21 12:19:01] Lead Mail : "beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca"
+[2025-10-21 12:27:34] Lead Mail : "beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca"
+[2025-10-21 13:51:54] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:53:05] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:53:41] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:56:05] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:57:04] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:57:21] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 13:59:12] Vehicles: {"action":"get_vehicles"}
+[2025-10-21 14:00:00] Vehicles: {"action":"get_vehicles"}
+[2025-10-23 13:32:44] Lead saved: {"id":"&quot;beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca&quot;","action":"get_lead"}
+[2025-10-23 13:34:37] Lead saved: {"id":"&quot;beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca&quot;","action":"get_lead"}
+[2025-10-23 13:34:54] Lead saved: {"id":"&quot;beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca&quot;","action":"get_lead"}
+[2025-10-23 13:38:19] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:40:31] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:40:59] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:41:25] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:42:00] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:42:27] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:42:53] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:53:25] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:54:51] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:57:47] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:58:15] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:59:47] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:59:50] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 13:59:58] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:00:12] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:00:33] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:00:44] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:01:06] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:01:20] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:01:23] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:01:49] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-10-23 14:18:41] Lead saved: {"id":"beddc3bb-b03e-6e96-2fcb-68f72d6ef3ca","action":"get_lead"}
+[2025-11-19 11:23:25] Vehicles: {"action":"get_vehicles"}
+[2025-11-19 11:23:34] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Construction Shuttle","passengers":"20","pickup_date":"2025-11-19","service_length":"5","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
+[2025-11-19 11:23:42] Lead Mail : "15add41e-a1b7-9cb1-e087-691d9aeb20d9"
+[2025-11-19 11:23:53] Vehicles: {"action":"get_vehicles"}

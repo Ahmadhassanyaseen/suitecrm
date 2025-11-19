@@ -1,0 +1,37 @@
+Tue Oct 14 09:17:32 2025 [10296][1][SECURITY] OutboundEmail::checkSavePermissions - not logged in - skipping check
+Tue Oct 14 09:17:33 2025 [10296][1][FATAL] User update error: Temp User is not retrieved at ID 1, boolean given
+Tue Oct 14 09:17:35 2025 [10296][1][FATAL] Email address save error
+Tue Oct 14 09:20:24 2025 [10296][1][SECURITY] Invalid ext  logger_file_ext : ''.
+Tue Oct 14 09:20:24 2025 [10296][1][SECURITY] Setting logger_file_ext to '.log'.
+Tue Oct 14 09:20:24 2025 [10296][1][SECURITY] Setting logger_file_name to ''.
+Tue Oct 14 09:20:24 2025 [10296][1][SECURITY] Log file extension can't be blank.
+Tue Oct 14 09:20:25 2025 [10296][1][SECURITY] Setting logger_file_name to ''.
+Tue Oct 14 09:20:25 2025 [10296][1][SECURITY] Log file extension can't be blank.
+Tue Oct 14 09:35:05 2025 [10296][1][FATAL] Exception handling in G:\XAMPP\htdocs\suitecrm7\include\MVC\Controller\SugarController.php:397
+Tue Oct 14 09:35:05 2025 [10296][1][FATAL] Exception in Controller: There is no action by that name: index
+Tue Oct 14 09:37:12 2025 [10296][1][FATAL] Exception handling in G:\XAMPP\htdocs\suitecrm7\include\MVC\Controller\SugarController.php:397
+Tue Oct 14 09:37:12 2025 [10296][1][FATAL] Exception in Controller: There is no action by that name: index
+Tue Oct 14 09:37:14 2025 [10296][1][FATAL] Exception handling in G:\XAMPP\htdocs\suitecrm7\include\MVC\Controller\SugarController.php:397
+Tue Oct 14 09:37:14 2025 [10296][1][FATAL] Exception in Controller: There is no action by that name: index
+Tue Oct 14 10:13:30 2025 [10296][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Tue Oct 14 10:14:04 2025 [10296][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Tue Oct 14 10:14:31 2025 [10296][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Tue Oct 14 10:14:36 2025 [10296][1][FATAL] log call at: modules/EmailMan/tpls/config.tpl - styleChecked is not set
+Tue Oct 14 12:18:24 2025 [10296][-none-][FATAL] SugarPHPMailer encountered an error: Invalid address:  (to): 
+Tue Oct 14 12:18:28 2025 [10296][-none-][FATAL] SugarPHPMailer encountered an error: You must provide at least one recipient email address.
+Tue Oct 14 12:18:28 2025 [10296][-none-][FATAL] SugarPHPMailer encountered an error: You must provide at least one recipient email address.
+Thu Oct 16 12:46:12 2025 [4280][1][FATAL] Error: Module shipper_xl does not exist.
+Thu Oct 16 12:46:18 2025 [4280][1][FATAL] Error: Module shipper_xl does not exist.
+Thu Oct 16 12:46:31 2025 [4280][1][FATAL] Error: Module shipper_xl does not exist.
+Thu Oct 23 12:23:49 2025 [20200][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Oct 23 12:24:07 2025 [20200][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Wed Nov 19 11:20:36 2025 [2092][-none-][FATAL] SECURITY: User authentication for ahmadhassan795294@gmail.com failed
+Wed Nov 19 11:20:36 2025 [2092][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[ahmadhassan795294@gmail.com]
+Wed Nov 19 11:20:41 2025 [2092][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Nov 19 11:20:47 2025 [2092][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Wed Nov 19 11:21:02 2025 [2092][-none-][FATAL] SECURITY: User authentication for Ahmad failed
+Wed Nov 19 11:21:02 2025 [2092][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[Ahmad]
+Wed Nov 19 11:21:08 2025 [2092][-none-][FATAL] SECURITY: User authentication for admin@test.com failed
+Wed Nov 19 11:21:08 2025 [2092][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin@test.com]
+Wed Nov 19 11:22:24 2025 [2092][-none-][FATAL] SECURITY: User authentication for admin failed
+Wed Nov 19 11:22:25 2025 [2092][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
