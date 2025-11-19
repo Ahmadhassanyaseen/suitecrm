@@ -124,3 +124,6 @@
 [2025-11-19 11:23:34] Lead saved: {"first_name":"Ahmad","last_name":"Hassan","email":"ahmadhassan795294@gmail.com","phone":"03154540483","pickup":"Baltimore, MD, USA","destination":"Washington D.C., DC, USA","service_type":"Construction Shuttle","passengers":"20","pickup_date":"2025-11-19","service_length":"5","vehicle_id":"3ad83986-867b-b28c-936b-68f0ccf8c83a","action":"save_lead"}
 [2025-11-19 11:23:42] Lead Mail : "15add41e-a1b7-9cb1-e087-691d9aeb20d9"
 [2025-11-19 11:23:53] Vehicles: {"action":"get_vehicles"}
+[2025-11-19 12:32:12] Vehicles: {"action":"get_vehicles"}
+[2025-11-19 12:33:32] Vehicles: {"action":"get_vehicles"}
+[2025-11-19 12:35:24] Vehicles: {"action":"get_vehicles"}

@@ -122,7 +122,7 @@ function send_mail($id)
         if (empty($emailTemp->id)) {
             throw new Exception('Email template not found');
         }
-        $bookinglink = "http://localhost/bpl/sendAgreement.php?id=".$id;
+        $bookinglink = "https://zabrin.xyz/limodemo/sendAgreement.php?id=".$id;
         $emailTemp->body_html = str_replace('$companyName', "Black Pearl Limo", $emailTemp->body_html);
         $emailTemp->body_html = str_replace('$firstName', $lead->first_name, $emailTemp->body_html);
         $emailTemp->body_html = str_replace('$lastName', $lead->last_name, $emailTemp->body_html);
